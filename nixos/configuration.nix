@@ -76,7 +76,11 @@
     lsof
     mc
     mpv
+    mtr
+    ncat
     neovim
+    netcat
+    ngrep
     nodejs
     p7zip
     pciutils
@@ -90,6 +94,7 @@
     tcpdump
     tdesktop
     termite
+    traceroute
     usbutils
     vde2
     vim
